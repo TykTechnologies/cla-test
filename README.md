@@ -14,7 +14,7 @@ You can use it as a base tempalte to create your new repo or copy basic importan
 7. [Default Repo README](./.github/README-template.md), which resides in `/.github`
 
 
-## How to use this repo
+## How to use this rep
 ### For a new repo
   - Create your repository using this repo as a template ([GitHub instruction](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)).
   - Rename the file `./.github/README-template.md` to `./.github/README.md` (remove the `-template` part) to get GitHub to display this README
